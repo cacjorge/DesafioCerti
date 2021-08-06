@@ -4,7 +4,7 @@
 */
 /*
 servidor HTTP que recebe uma requisicao GET e retorna um JSON
-com uma chave "numExtenso", que eh a versao por numExttenso de um 
+com uma chave "extenso", que eh a versao por extenso de um 
 numero inteiro enviado no path.
 */
 
